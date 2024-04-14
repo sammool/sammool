@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 ## sammool
 🌱  I’m currently working on military
@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badgesquare&logo=Spring&logoColor=white">
 </div>
   
-## algorithm(c++)
+## Algorithm
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
 
 
-
+<div>
 
 
 
