@@ -1,5 +1,21 @@
-### Hello! 👋
-![LG_Twins_flag](https://github.com/sammool/sammool/assets/105445576/3ae7ab0f-3eda-4981-b899-c434e6f39157)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
+<div align="center">
+  
+## sammool
+- 🔭 I’m currently working on military
+- 🌱 I’m currently learning spring framework
+  
+ ## 📚 Studying 
+  <div>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge-square&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge-square&logo=OpenJDK&logoColor=black">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badgesquare&logo=Spring&logoColor=white">
+  </div>
+  
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
 
 
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+
+
+
