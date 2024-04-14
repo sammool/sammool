@@ -1,7 +1,7 @@
 <div>
   
 ## sammool
-Soongsil University, Department of Computer Science & Engineering
+Soongsil University, Department of Computer Science & Engineering <br>
 Hi there, 
   
  ## 📚 Studying 
