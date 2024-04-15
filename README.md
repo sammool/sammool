@@ -3,7 +3,7 @@
 ## sammool
 <p align="center">
   <a href="https://velog.io/@sammool"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@sammool"/></a>
-  <a href="https://www.instagram.com/sammool_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sammool_/"/></a>&nbsp
+  <a href="https://www.instagram.com/sammool_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sammool_"/></a>
 </p>
 
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
