@@ -1,6 +1,6 @@
 <div align="center">
-  
-## sammool
+<img src = "http://capsule-render.vercel.app/api?type=waving&color=0.ed9d0b,100:f94001&height=180&section=header&text=sammool&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+//## sammool
 <p align="center">
   <a href="https://velog.io/@sammool"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@sammool"/></a>
   <a href="https://www.instagram.com/sammool_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sammool_"/></a>
