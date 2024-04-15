@@ -1,7 +1,13 @@
 <div align="center">
   
 ## sammool
+<p align="center">
+  <a href="https://velog.io/@sammool"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sammool"/></a>&nbsp
+  <a href="https://www.instagram.com/sammool_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sammool_/"/></a>&nbsp
+</p>
+
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
+<br>
 👋Hi there, i'm a student who wants to be a Backend Developer developing investment systems.
 
 🇰🇷 I'm currenty on working military.<br>
