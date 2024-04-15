@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   
 ## sammool
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
@@ -15,7 +15,8 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badgesquare&logo=Spring&logoColor=white">
 </div>
 <br>
-### 🏅 Algorithm
+
+ ### 🏅 Algorithm
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
 </div>
 
