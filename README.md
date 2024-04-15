@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 ## sammool
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
