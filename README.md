@@ -4,7 +4,7 @@
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
 👋Hi there, i'm a student who wants to be a Backend Developer developing investment systems.
 
-🇰🇷 I'm currenty on working military.
+🇰🇷 I'm currenty on working military.<br>
 💻 I'm currently on studying spring framework.
   
  ## 📚 Studying 📚 
