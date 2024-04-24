@@ -25,6 +25,7 @@
 
  ### 🏅 Algorithm
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammool&layout=compact)
 
 </div>
 
