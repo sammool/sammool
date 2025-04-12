@@ -19,12 +19,14 @@
     <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge-square&logo=OpenJDK&logoColor=black">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badgesquar&logo=Spring&logoColor=white"/> 
 </div>
+<br>
 
 ### 🏆 Certifications
 - 📈 투자자산운용사 (Investment Asset Manager)
 - 🗃️ SQLD (SQL Developer)
 <br>
- ### 🏅 Algorithm
+
+### 🏅 Algorithm
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammool&layout=compact)
