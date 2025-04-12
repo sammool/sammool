@@ -13,7 +13,7 @@
 💻 I'm currently on studying spring framework.
 <br>
 
- ### 📚 Studying 📚 
+ ### 📚 Studying 
 <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge-square&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge-square&logo=OpenJDK&logoColor=black">
@@ -22,8 +22,8 @@
 <br>
 
 ### 🏆 Certifications
-📈 투자자산운용사 (Investment Asset Manager)
-🗃️ SQLD (SQL Developer)
+##### 📈 투자자산운용사 (Investment Asset Manager) <br>
+##### SQLD (SQL Developer)
 <br>
 
 ### 🏅 Algorithm
