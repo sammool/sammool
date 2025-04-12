@@ -24,8 +24,6 @@
 - 📈 투자자산운용사 (Investment Asset Manager)
 - 🗃️ SQLD (SQL Developer)
 <br>
-<br>
-
  ### 🏅 Algorithm
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sammool2003)](https://solved.ac/sammool2003/)
  <br>
