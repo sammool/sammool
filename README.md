@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badgesquar&logo=Spring&logoColor=white"/> 
 </div>
 
+### 🏆 Certifications
+- 📈 투자자산운용사 (Investment Asset Manager)
+- 🗃️ SQLD (SQL Developer)
+<br>
 <br>
 
  ### 🏅 Algorithm
