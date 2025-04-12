@@ -22,8 +22,8 @@
 <br>
 
 ### 🏆 Certifications
-- 📈 투자자산운용사 (Investment Asset Manager)
-- 🗃️ SQLD (SQL Developer)
+📈 투자자산운용사 (Investment Asset Manager)
+🗃️ SQLD (SQL Developer)
 <br>
 
 ### 🏅 Algorithm
