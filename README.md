@@ -7,13 +7,8 @@
 </p>
 
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
-<br>
-👋Hi there, i'm a student who wants to be a Backend Developer developing investment systems.
 
-💻 I'm currently on studying spring framework.
-<br>
-
- ### 📚 Stacks 
+ ### 👨🏻‍🔧 Stacks 
 <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black">
@@ -21,6 +16,11 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 <br>
+### 📚 Studying
+<div>
+  <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Fastapi-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</div>
 
 ### 🏆 Certifications
 ##### 📈 투자자산운용사 (Investment Asset Manager) <br>
