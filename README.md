@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <img src = "http://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=150&section=header&text=&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <p align="center">
@@ -7,6 +7,7 @@
 </p>
 
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
+👋 Hello, I am a student aspiring to become a backend developer who pursues continuous growth and new challenges.
 
 ### 👨🏻‍🔧 Stacks
 <div>
