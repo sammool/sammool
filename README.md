@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img src = "http://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=150&section=header&text=&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <p align="center">
@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
 </div>
+
+<br>
 
 ### 🏆 Certifications
 ##### 📈 투자자산운용사 (Investment Asset Manager) <br>
