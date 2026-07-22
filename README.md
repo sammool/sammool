@@ -5,7 +5,6 @@
      <a href="https://portfolio-three-delta-k02qux29qa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=about.me&logoColor=white"/></a>
      <a href="https://velog.io/@sammool"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=vimeo&logoColor=white"/></a>
-    <a href="https://www.instagram.com/sammool_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 **Soongsil University, Department of Computer Science & Engineering 22** <br>
