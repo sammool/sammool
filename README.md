@@ -12,7 +12,7 @@ My primary interests are backend development with Spring Boot and infrastructure
 [![Email](https://img.shields.io/badge/Email-1F4E79?style=flat-square&logo=gmail&logoColor=white)](mailto:sammool2003@soongsil.ac.kr)
 
 
-<img align="right" src="./profile-card.png" width="430" alt="Park Chan Gyu profile card" />
+<img align="right" src="./profile-card.png" width="370" alt="Park Chan Gyu profile card" />
 
 <br>
 
